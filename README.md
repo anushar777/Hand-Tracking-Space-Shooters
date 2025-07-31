@@ -35,13 +35,15 @@ This is a **space shooting game** built in Unity using **C#**, where:
 
 ## 📂 Project Structure
 
-HandTrackingSpaceShooter/
-├── Assets/ # Main Unity game
-│ ├── KennySpace/
-│ └── Scripts/ # C# and python scripts for player, enemy, game logic
-├── TextMeshPro/
-├── UDPRecieve.cs
-└── README.md
+Root/
+├── Assets/                     # Unity assets and scripts
+├── Packages/
+├── ProjectSettings/
+├── .gitignore
+├── .gitattributes
+├── .vsconfig
+├── README.md
+
 
 
 ---
