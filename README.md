@@ -35,6 +35,8 @@ This is a **space shooting game** built in Unity using **C#**, where:
 
 ## 📂 Project Structure
 
+```bash
+
 Root/
 ├── Assets/                     # Unity assets and scripts
 ├── Packages/
@@ -44,7 +46,7 @@ Root/
 ├── .vsconfig
 ├── README.md
 
-
+```
 
 ---
 
